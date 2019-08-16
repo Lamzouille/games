@@ -1,0 +1,66 @@
+-- Disclaimer
+
+-- EN
+
+-- Rules
+
+Resource Type : 
+
+- Wood
+- Gold 
+- Food & Water
+- Stone
+
+How to get resources ?
+
+- Hunting (Technological Upgrade)
+- Fishing (Technological Upgrade)
+- Farming 
+- Mining (Technological Upgrade)
+
+The buildings
+
+- City Hall
+- Cereal Deposit
+- Resources Deposit
+- Barrack
+
+-- FR
+
+Types de ressources : 
+
+- Bois
+- Or
+- Nourriture
+- Pierre
+
+Moyens d'obtenir les ressources :
+
+- Chasse (Technologie)
+- Pêche
+- Culture
+- Pillage
+- Minage (Technologie)
+
+Les bâtiments :
+
+  Les bâtiments de base : 
+  
+    - Hôtel de ville
+    - Dépôt de céréales
+    - Dépôt de ressources 
+    - Caserne
+    - Tour
+    - Fortifications
+
+
+Les unités de base :
+
+Les unités de combat : 
+
+- Âge de pierre 
+- Âge du bronze
+- Âge du fer
+
+
+-- @Lamzouille
