@@ -1,8 +1,17 @@
 -- Disclaimer
 
+
+
 -- EN
 
 -- Rules
+
+Factions :
+
+- Humans & Dwarves
+- Orcs & Goblins
+
+
 
 Resource Type : 
 
@@ -55,8 +64,26 @@ Les bâtiments :
 
 
 Les unités de base :
-
+ - Paysan
+ 
 Les unités de combat : 
+
+  Humains et Nains : 
+    - Fantassin
+    - Tirailleur
+    - 
+
+  Orcs & Gobelins : 
+    - Grunt
+    - Berzeker à lances
+    
+  Elfes & Elfes noirs : 
+    - Archers
+    - Chasseresse
+    
+  Morts vivants
+
+Les différents niveaux technologiques :
 
 - Âge de pierre 
 - Âge du bronze
