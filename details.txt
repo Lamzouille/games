@@ -76,12 +76,23 @@ Les unités de combat :
   Orcs & Gobelins : 
     - Grunt
     - Berzeker à lances
+    - Tauren
+    - Chaman
+    - Chevaucheur de kodo
     
   Elfes & Elfes noirs : 
     - Archers
     - Chasseresse
+    - Dryades
+    - Gardien du bosquet
+    - Druide
     
   Morts vivants
+    - Goules
+    - Chevalier squelette
+    - Araignée
+    - Banshee
+    - Wyrmes
 
 Les différents niveaux technologiques :
 
