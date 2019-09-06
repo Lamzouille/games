@@ -71,14 +71,19 @@ Les unités de combat :
   Humains et Nains : 
     - Fantassin
     - Tirailleur
-    - 
-
+    - Sorcière
+    - Prêtre
+    - Chevalier 
+    - Mortier
+    
   Orcs & Gobelins : 
     - Grunt
     - Berzeker à lances
     - Tauren
     - Chaman
-    - Chevaucheur de kodo
+    - Chevaucheur de kodos
+    - Arme
+    - Chevaucheur de Wyverne
     
   Elfes & Elfes noirs : 
     - Archers
@@ -86,6 +91,7 @@ Les unités de combat :
     - Dryades
     - Gardien du bosquet
     - Druide
+    - Tréant
     
   Morts vivants
     - Goules
@@ -93,12 +99,16 @@ Les unités de combat :
     - Araignée
     - Banshee
     - Wyrmes
+    - Nécromanciens
+    
 
 Les différents niveaux technologiques :
 
 - Âge de pierre 
 - Âge du bronze
 - Âge du fer
+- Âge contemporain
+- Âge du laser
 
 
 -- @Lamzouille
