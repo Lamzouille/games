@@ -7,5 +7,11 @@ pipeline {
       }
     }
 
+    stage('Step 1') {
+      steps {
+        sh 'hostname'
+      }
+    }
+
   }
 }
